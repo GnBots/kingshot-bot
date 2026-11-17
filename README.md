@@ -23,12 +23,12 @@ Complete repetitive daily tasks without grinding.
 
 ## Kingshot Bot Documentation
 
-- [Kingshot Bot Free Download](kingshot-bot-free-download.md)
-- [Setup Guide](kingshot-bot-setup-guide.md)
-- [Features](kingshot-bot-features.md)
-- [Auto Farming](kingshot-auto-farming.md)
-- [GitHub Bot vs Cloud Bot](kingshot-bot-github-vs-cloud-bot.md)
-- [FAQ](kingshot-bot-faq.md)
+- [Kingshot Bot Free Download](kingshot-bot-free-download)
+- [Setup Guide](kingshot-bot-setup-guide)
+- [Features](kingshot-bot-features)
+- [Auto Farming](kingshot-auto-farming)
+- [GitHub Bot vs Cloud Bot](kingshot-bot-github-vs-cloud-bot)
+- [FAQ](kingshot-bot-faq)
 
 ## Download Kingshot Bot
 
