@@ -2,7 +2,7 @@
 
 Looking for a Kingshot Bot on GitHub?
 
-GnBots provides a cloud-based Kingshot bot called **KingsBot** that automates the most time-consuming parts of the game.
+GnBots provides a cloud-based Kingshot bot that automates the most time-consuming parts of the game.
 
 ## Features
 
@@ -23,12 +23,12 @@ Complete repetitive daily tasks without grinding.
 
 ## Kingshot Bot Documentation
 
-- [Kingshot Bot Free Download](kingshot-bot-free-download)
-- [Setup Guide](kingshot-bot-setup-guide)
-- [Features](kingshot-bot-features)
-- [Auto Farming](kingshot-auto-farming)
-- [GitHub Bot vs Cloud Bot](kingshot-bot-github-vs-cloud-bot)
-- [FAQ](kingshot-bot-faq)
+- [Kingshot Bot Free Download](kingshot-bot-free-download.md)
+- [Setup Guide](kingshot-bot-setup-guide.md)
+- [Features](kingshot-bot-features.md)
+- [Auto Farming](kingshot-auto-farming.md)
+- [GitHub Bot vs Cloud Bot](kingshot-bot-github-vs-cloud-bot.md)
+- [FAQ](kingshot-bot-faq.md)
 
 ## Download Kingshot Bot
 
